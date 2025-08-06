@@ -1,5 +1,5 @@
 ### Hi there 👋 Welcome
-- 🔭 I’m currently working at Infosys as Java backend engineer.
+- 🔭 I’m currently working at Robert Half - protiviti as Senior Java backend engineer.
 - 🌱 I’m currently learning ...Cloud and Machine Learning
 - 👯 I’m looking to collaborate on ...Tech Ideas
 - 💬 Ask me about ...#dsa #problemSolving #tech
